@@ -1,5 +1,21 @@
 # PYhellperTools
 
+##pip instructions##
+
+	pip install random
+	
+	pip install string
+	
+	pip install pyttsx3
+	
+	pip install time
+	
+	pip install colorama
+	
+	pip install pyjokes
+	
+	pip install pygame
+
 ##random inputs##
 
 	print(RandomInput.Normal([number])) -give you a random number from 0 to the number that you sanded
